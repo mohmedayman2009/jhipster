@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "jHipster",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "angular",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1754752908736,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": true,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "NjdjMmFkZTZiNzkyZWEzNTllMzNkYmJmOTA1MmZkNjU1OWNlYzliYzY5NmM4MzRhMzNjZjExM2M3MzAwYTA0YjAwY2Q1OGQ3YzJlNzQ0MWM2YTY4ZDkwODIzNzk4MjZmNTc4Mjc0ZDgxOTNlMzAyZTYwZDg3Y2I1YWUwMDg4MzM=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": 8081,
+    "serviceDiscoveryType": "consul",
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
